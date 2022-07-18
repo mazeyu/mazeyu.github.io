@@ -23,7 +23,7 @@ ACM Transactions on Graphics (TOG), 2021
 Abdullah Alfarrarjeh, **Zeyu Ma**, Seon Ho Kim, Cyrus Shahabi \
 International Conference on Multimedia Modeling (MMM), 2020
 
-[3D Spatial Coverage Measurement of Aerial Images](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_59) \
+[A Web-based Visualization Tool for 3D Spatial Coverage Measurement of Aerial Images](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_59) \
 Abdullah Alfarrarjeh, **Zeyu Ma**, Seon Ho Kim, Yeonsoo Park, Cyrus Shahabi  \
 International Conference on Multimedia Modeling (MMM), 2020 (Demo paper)
 
