@@ -9,8 +9,11 @@ I am a third year PhD candidate in the Vision & Learning Lab at Princeton Univer
 [Email](mailto:zeyum@princeton.edu)  /  [GitHub](https://github.com/mazeyu)
 
 ## Research
+[Infinigen: Infinite Photorealistic Worlds using Procedural Generation](https://arxiv.org/pdf/2306.09310.pdf) \
+Alexander Raistrick*, Lahav Lipson*, **Zeyu Ma* ** (*equal contribution, alphabetical order), Lingjie Mei, Mingzhe Wang, Yiming Zuo, Karhan Kayan, Hongyu Wen, Beining Han, Yihan Wang, Alejandro Newell, Hei Law, Ankit Goyal, Kaiyu Yang, Jia Deng \
+Computer Vision and Pattern Recognition Conference (CVPR), 2023
 
-[Multiview Stereo with Cascaded Epipolar RAFT](https://arxiv.org/abs/2205.04502) \
+[Multiview Stereo with Cascaded Epipolar RAFT](https://arxiv.org/pdf/2205.04502.pdf) \
 **Zeyu Ma**, Zachary Teed, Jia Deng  \
 European Conference on Computer Vision (ECCV), 2022
 
