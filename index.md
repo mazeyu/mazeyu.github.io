@@ -2,13 +2,35 @@
 
 <img align="right" src="images/IMG_6857.jpeg" width="400" height="auto">
 
-I am a fourth-year PhD candidate in the Vision & Learning Lab at Princeton University, supervised by Prof. Jia Deng. I received my B.Eng. in Electronic Engineering from Tsinghua University in 2020. My current research focuses on multi-view 3D reconstruction and procedural data generation for 3D vision tasks.
+I am a six-year PhD candidate in the Vision & Learning Lab at Princeton University, supervised by Prof. Jia Deng. I received my B.Eng. in Electronic Engineering from Tsinghua University in 2020. My current research focuses on multi-view 3D reconstruction and procedural data generation for 3D vision tasks. Currently seeking full-time positions in Computer Vision and Graphics (available 2026).
 
 
 
 [Email](mailto:zeyum@princeton.edu)  /  [GitHub](https://github.com/mazeyu)
 
 ## Research
+
+[Temporally Smooth Mesh Extraction for Procedural Scenes with Long-Range Camera Trajectories using Spacetime Octrees](https://arxiv.org/html/2509.13306v2) \
+**Zeyu Ma**, Adam Finkelstein, Jia Deng \
+SIGGRAPH Asia, 2025
+
+[Evaluating Robustness of Monocular Depth Estimation with Procedural Scene Perturbations](https://arxiv.org/abs/2507.00981) \
+Jack Nugent, Siyang Wu,  **Zeyu Ma**, Beining Han, Meenal Parakh, Abhishek Joshi, Lingjie Mei, Alexander Raistrick, Xinyuan Li, Jia Deng \
+Neural Information Processing Systems (NeurIPS), 2025
+
+[OMNI-DC: Highly Robust Depth Completion with Multiresolution Depth Integration](https://arxiv.org/abs/2411.19278) \
+Yiming Zuo, Willow Yang, **Zeyu Ma**, Jia Deng \
+International Conference on Computer Vision (ICCV), 2025
+
+[Mesh Extraction for Unbounded Scenes Using Camera-Aware Octrees](https://arxiv.org/abs/2312.08364) \
+**Zeyu Ma**, Alexander Raistrick, Lahav Lipson, Jia Deng \
+International Conference on 3D Vision (3DV), 2025
+
+[Infinigen Indoors: Photorealistic Indoor Scenes Using Procedural Generation](https://arxiv.org/abs/2406.11824) \
+Alexander Raistrick*, Karhan Kayan*, Lingjie Mei* (*equal contribution; alphabetical order), David Yan, Yiming Zuo, Beining Han, Hongyu Wen, Meenal Parakh, Stamatis Alexandropoulos, Lahav Lipson,  **Zeyu Ma**, Jia Deng \
+Computer Vision and Pattern Recognition Conference (CVPR), 2024
+
+  
 [Infinigen: Infinite Photorealistic Worlds using Procedural Generation](https://arxiv.org/pdf/2306.09310.pdf) \
 Alexander Raistrick*, Lahav Lipson*, **Zeyu Ma** *  (*equal contribution, alphabetical order), Lingjie Mei, Mingzhe Wang, Yiming Zuo, Karhan Kayan, Hongyu Wen, Beining Han, Yihan Wang, Alejandro Newell, Hei Law, Ankit Goyal, Kaiyu Yang, Jia Deng \
 Computer Vision and Pattern Recognition Conference (CVPR), 2023
