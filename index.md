@@ -10,6 +10,14 @@ I am a final-year PhD candidate in the Vision & Learning Lab at Princeton Univer
 
 ## Research
 
+[SimpleProc: Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo](https://arxiv.org/abs/2604.04925) \
+**Zeyu Ma**, Alexander Raistrick, Jia Deng \
+arXiv preprint, 2026
+
+[UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images](https://arxiv.org/abs/2602.24290) \
+Junhwa Hur, Charles Herrmann, Songyou Peng, Philipp Henzler, **Zeyu Ma**, Todd Zickler, Deqing Sun \
+International Conference on Learning Representations (ICLR), 2026
+
 [Temporally Smooth Mesh Extraction for Procedural Scenes with Long-Range Camera Trajectories using Spacetime Octrees](https://arxiv.org/html/2509.13306v2) \
 **Zeyu Ma**, Adam Finkelstein, Jia Deng \
 SIGGRAPH Asia, 2025
